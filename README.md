@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi there! I’m Varsha,
 
-<!--
-**varsha21302/varsha21302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate student who loves building cool stuff and solving problems. 
+I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+	•	💻 Languages: JavaScript, Python, Java, C++
+	•	🌐 Frontend: React, HTML, CSS
+	•	🗄️ Database: MongoDB, MyS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s Connect!
+	•	LinkedIn: https://www.linkedin.com/in/varsha-rasakumar-729804286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+	•	Portfolio: https://gleeful-capybara-7b1931.netlify.app/
+	•	Email: varsharasakumar102@gmail.com
