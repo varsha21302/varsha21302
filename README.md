@@ -6,11 +6,9 @@ I enjoy learning new technologies, collaborating on open-source projects, and co
 🔧 Tech Stack
 	•	💻 Languages: JavaScript, Python, Java, C++
 	•	🌐 Frontend: React, HTML, CSS
-	•	🗄️ Database: MongoDB, MyS
+	•	🗄️ Database: MongoDB, MySql
 
 📫 Let’s Connect!
-	•	LinkedIn: https://www.linkedin.com/in/varsha-rasakumar-
-        729804286?utm_source=share&utm_campaign=share_via&utm_content
-        =profile&utm_medium=ios_app
+	•	LinkedIn: https://www.linkedin.com/in/varsha-rasakumar-729804286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 	•	Portfolio: https://gleeful-capybara-7b1931.netlify.app/
 	•	Email: varsharasakumar102@gmail.com
