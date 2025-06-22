@@ -9,6 +9,8 @@ I enjoy learning new technologies, collaborating on open-source projects, and co
 	•	🗄️ Database: MongoDB, MyS
 
 📫 Let’s Connect!
-	•	LinkedIn: https://www.linkedin.com/in/varsha-rasakumar-729804286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+	•	LinkedIn: https://www.linkedin.com/in/varsha-rasakumar-
+        729804286?utm_source=share&utm_campaign=share_via&utm_content
+        =profile&utm_medium=ios_app
 	•	Portfolio: https://gleeful-capybara-7b1931.netlify.app/
 	•	Email: varsharasakumar102@gmail.com
